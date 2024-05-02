@@ -1,29 +1,10 @@
-# despliegue-vuejs-test
+# Despliegue de un proyecto VueJS en GitHub Pages
+Ejemplo de despliegue de una aplicación VueJS en GitHub Pages mediante integración continua con GitHub Actions.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Vídeotutorial
+https://youtu.be/8oF68bUibZw
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Referencias
+- https://vuejs.org/guide/quick-start.html
+- https://docs.github.com/actions
+- https://github.com/actions/deploy-pages
